@@ -29,7 +29,7 @@ public class Main {
 	nome[2] = "Windows";
 	System.out.println(nome[0]);
 	*/
-	//Condições
+	/*Condições
 	int vida = 101;
 	if(vida >= 100){
 		vida+=100; // condicao de adicao
@@ -37,6 +37,25 @@ public class Main {
 	}else{
 		System.out.println("Minha vida bosta é "+vida);
 	}
-	
+	*/
+		int vida = 100;
+		switch(vida)
+		{
+		case 90;
+		//acao
+		System.out.println();
+		break;
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 }
