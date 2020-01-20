@@ -38,12 +38,18 @@ public class Main {
 		System.out.println("Minha vida bosta é "+vida);
 	}
 	*/
-		int vida = 100;
+		int vida = 50;
 		switch(vida)
 		{
-		case 90;
+		case 90:
 		//acao
-		System.out.println();
+		System.out.println("Super");
+		break;
+		case 30:
+		System.out.println("Hyper");
+		break;
+		default:
+		System.out.println("TrapStar");
 		break;
 		}
 		
