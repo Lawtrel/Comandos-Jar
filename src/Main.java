@@ -37,7 +37,7 @@ public class Main {
 	}else{
 		System.out.println("Minha vida bosta é "+vida);
 	}
-	*/
+	//CASES
 		int vida = 50;
 		switch(vida)
 		{
@@ -52,16 +52,21 @@ public class Main {
 		System.out.println("TrapStar");
 		break;
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		* Operacao
+		int vida1 = 100;
+		int vida2 = 50;
+		int vidatotal = vida1 + vida2 +150;
+		System.out.println((vidatotal) /2 * 3 ) ;
+		*
+		int contador = 1;
+		while(contador <= 10) {
+			System.out.println(contador);
+			contador++;}
+		*/
+		for(int i= 1;i<=10;i++) {
+			System.out.println(+i);
+		}
+	
+	
 	}
 }
